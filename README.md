@@ -16,6 +16,7 @@ $ yarn start
 # generate static project
 $ yarn generate
 # deploy github page
+$ yarn generate
 $ yarn deploy
 ```
 
