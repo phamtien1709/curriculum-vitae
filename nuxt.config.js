@@ -10,7 +10,7 @@ export default {
    */
   target: "static",
   router: {
-    base: "/phamtien1709.github.io/"
+    base: "/"
   },
   /*
    ** Headers of the page
