@@ -10,7 +10,7 @@ export default {
    */
   target: "static",
   router: {
-    base: "/"
+    base: "/curriculum-vitae/"
   },
   /*
    ** Headers of the page
