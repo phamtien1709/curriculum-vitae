@@ -15,7 +15,8 @@
     "gh-pages": "^3.1.0",
     "nuxt": "^2.14.0",
     "nuxt-buefy": "^0.3.31",
-    "push-dir": "^0.4.1"
+    "push-dir": "^0.4.1",
+    "vue-pdf": "^4.1.0"
   },
   "devDependencies": {
     "@nuxt/types": "^2.14.0",
